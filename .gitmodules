@@ -1,0 +1,3 @@
+[submodule "reinforcement-learning-kr-v2"]
+	path = reinforcement-learning-kr-v2
+	url = https://github.com/rlcode/reinforcement-learning-kr-v2
