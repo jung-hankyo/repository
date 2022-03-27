@@ -1,3 +1,6 @@
 [submodule "reinforcement-learning-kr-v2"]
 	path = reinforcement-learning-kr-v2
 	url = https://github.com/rlcode/reinforcement-learning-kr-v2
+[submodule "rl-medical"]
+	path = rl-medical
+	url = https://github.com/amiralansary/rl-medical.git
